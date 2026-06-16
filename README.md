@@ -1,2 +1,2 @@
-# NYUMSBA
-NYU MS in Business Analytics 2024
+# NYU MSBAi
+NYU MS in Business Analytics and AI 2024 Cohort
